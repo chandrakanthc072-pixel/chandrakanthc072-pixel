@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A7+DISCOVER+THE+DIGITAL+REALM+%E2%9C%A7;%E2%9A%A1+WHERE+CODE+MEETS+CREATIVITY+%E2%9A%A1" alt="Cool Subheading" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Java+Full-Stack+Web+Developer;Hardware+Prototyper+%26+Designer" alt="⌨️ Typing Animation" />
+</p>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Java+Full-Stack+Web+Developer;Hardware+Prototyper+%26+Designer" alt="⌨️ Typing Animation" />
   </a>
