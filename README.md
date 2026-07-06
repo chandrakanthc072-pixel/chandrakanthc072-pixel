@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Java-Full-Stack+Web+Developer;Hardware+Prototyper+%26+Designer" alt="⌨️ Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Java+Full-Stack+Web+Developer;Hardware+Prototyper+%26+Designer" alt="⌨️ Typing Animation" />
   </a>
 </p>
 
@@ -48,6 +48,14 @@ I am a passionate **Computer Science Engineering (CSE)** student and developer d
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
+### 🗄️ Databases & Core CS
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java_Collections-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Collections" />
+  <img src="https://img.shields.io/badge/DSA_%26_DBMS-00599C?style=for-the-badge&logo=computer-science&logoColor=white" alt="DSA & DBMS" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -60,35 +68,27 @@ I am a passionate **Computer Science Engineering (CSE)** student and developer d
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandrakanthc072-pixel&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="100%" />
-</p>
-
----
-
 ## 📊 GitHub Stats & Metrics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrakanthc072-pixel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffdd00&icon_color=ce181e&text_color=c9d1d9" alt="📊 GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandrakanthc072-pixel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffdd00&icon_color=ce181e&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakanthc072-pixel&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffdd00&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </p>
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrakanthc072-pixel&theme=dark&hide_border=true&background=0d1117&ring=ce181e&fire=ffdd00&currStreakNum=c9d1d9" alt="🔥 Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrakanthc072-pixel&theme=dark&hide_border=true&background=0d1117&ring=ce181e&fire=ffdd00&currStreakNum=c9d1d9" alt="Streak Stats" width="100%" />
 </p>
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrakanthc072-pixel&theme=github-dark-vertical&bg_color=0d1117&hide_border=true&color=ce181e" alt="📈 Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrakanthc072-pixel&theme=github-dark-vertical&bg_color=0d1117&hide_border=true&color=ce181e" alt="Activity Graph" width="100%" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandrakanthc072-pixel/chandrakanthc072-pixel/output/github-contribution-grid-snake.svg" alt="🐍 Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/chandrakanthc072-pixel/chandrakanthc072-pixel/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 > *Note: To animate the snake live, make sure to set up a quick automated GitHub Action workflow utilizing the `platane/snk` generator to output files directly into an `output` branch.*
