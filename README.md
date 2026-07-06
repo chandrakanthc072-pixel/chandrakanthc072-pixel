@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20Space&fontSize=50&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" alt="🌊 Animated Wave Header" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&height=50&lines=Java+Full+Stack+Developer;Computer+Science+Engineer;Problem+Solver" alt="Typing SVG" />
-</p>
-
 ---
 
 <p align="center">
