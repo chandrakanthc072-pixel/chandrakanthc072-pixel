@@ -12,9 +12,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Java+Full-Stack+Web+Developer;Hardware+Prototyper+%26+Designer" alt="⌨️ Typing Animation" />
-</p>
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Java+Full-Stack+Web+Developer;Hardware+Prototyper+%26+Designer" alt="⌨️ Typing Animation" />
   </a>
