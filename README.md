@@ -4,9 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20Space&fontSize=50&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" alt="🌊 Animated Wave Header" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=%E2%9C%A7+DISCOVER+THE+DIGITAL+REALM+%E2%9C%A7;%E2%9A%A1+WHERE+CODE+MEETS+CREATIVITY+%E2%9A%A1" alt="Cool Subheading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFDD00&center=true&vCenter=true&width=500&height=50&lines=Java+Full+Stack+Developer;Computer+Science+Engineer;Problem+Solver" alt="Typing SVG" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Java+Full-Stack+Web+Developer;Hardware+Prototyper+%26+Designer" alt="⌨️ Typing Animation" />
