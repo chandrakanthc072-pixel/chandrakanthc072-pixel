@@ -44,11 +44,6 @@ public class Chandrakantha {
     String batch = "2026";
     String location = "India";
 
-    String[] currentlyLearning = {
-        "Spring Boot", "Hibernate", "JPA",
-        "REST APIs", "Full Stack Development"
-    };
-
     String[] interests = {
         "Software Engineering",
         "Problem Solving",
