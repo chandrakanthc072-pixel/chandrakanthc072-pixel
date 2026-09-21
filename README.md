@@ -1,123 +1,341 @@
-# Hi there 👋 I'm Chandrakantha K
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20To%20My%20Space&fontSize=50&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" alt="🌊 Animated Wave Header" />
-</p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                                                         -->
+<!--                   Chandrakantha K                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
----
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Java+Full-Stack+Web+Developer;Hardware+Prototyper+%26+Designer" alt="⌨️ Typing Animation" />
-  </a>
-</p>
+<!-- ANIMATED HERO -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandrakanthc072-pixel&label=👀+Profile+Views&color=ce181e&style=flat-square" alt="Visitor Counter" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:9B5DE5&height=220&section=header&text=Chandrakantha%20K&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Welcome+to+my+Developer+Space+%F0%9F%91%8B;Java+Full+Stack+Developer+in+Progress+%E2%98%95;Building+Real-World+Projects+%F0%9F%9A%80;DSA+%7C+Problem+Solving+%7C+Java+%F0%9F%A7%A0;Turning+Ideas+Into+Working+Software+%E2%9C%A8" />
+
+<br/>
+
+<a href="https://github.com/chandrakanthc072-pixel">
+  <img src="https://komarev.com/ghpvc/?username=chandrakanthc072-pixel&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/chandrakanthc072-pixel?tab=followers">
+  <img src="https://img.shields.io/github/followers/chandrakanthc072-pixel?style=for-the-badge&color=9B5DE5&label=FOLLOWERS" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/chandrakanthc072-pixel?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate **Computer Science Engineering (CSE)** student and developer driven by building high-performance software, interactive frontend frameworks, and intelligent hardware systems. I love blending logical system engineering with rhythmic creative assets.
+```java
+public class Chandrakantha {
 
-* 🔭 **Currently working on:** Building a custom web coding platform and developing modular portfolio apps.
-* 🌱 **Learning & Architecting:** Advanced systems design, microservices, and interactive web tools.
-* ⚡ **Fun Fact:** I have a deep love for energetic sports vibes, music production tracking, and building sharp, customized visual layouts.
+    String name = "Chandrakantha K";
+    String role = "Java Full Stack Developer";
+    String batch = "2026";
+    String location = "India";
+
+    String[] currentlyLearning = {
+        "Spring Boot", "Hibernate", "JPA",
+        "REST APIs", "Full Stack Development"
+    };
+
+    String[] interests = {
+        "Software Engineering",
+        "Problem Solving",
+        "Building Real-World Projects"
+    };
+
+    public String getGoal() {
+        return "Build useful software, keep learning, "
+             + "and grow as a Software Engineer.";
+    }
+}
+```
+
+- 🎓 Engineering graduate | 2026-batch fresher
+- 💼 Currently pursuing a Java Full Stack Development internship
+- ☕ Focused on Java, backend development & modern web technologies
+- 🧠 Solved 200+ LeetCode problems
+- 🚀 Built and explored 22+ projects
+- 🌱 Learning Spring Boot, Hibernate, JPA & REST API development
+- 🎯 Open to entry-level Software Engineer & Java Full Stack opportunities
+
+> 💡 "Code with purpose. Learn with curiosity. Build with consistency."
 
 ---
 
-## 🛠️ Tech Stack
 
-### 💻 Frontend & Frameworks
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Technical Skills
 
-### 💻 Frontend & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+### 💻 Programming Language
+<p>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
 </p>
 
-### ⚙️ Backend & Hardware Prototyping
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React" />
 </p>
 
-### 🗄️ Databases & Core CS
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Java_Collections-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Collections" />
-  <img src="https://img.shields.io/badge/DSA_%26_DBMS-00599C?style=for-the-badge&logo=computer-science&logoColor=white" alt="DSA & DBMS" />
+### ⚙️ Backend & Java Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" alt="Spring, Hibernate, Maven" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/JDBC-Database%20Connectivity-6C63FF?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+</p>
+
+### 🧠 Core Concepts & Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-9B5DE5?style=for-the-badge" alt="OOP" />
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-6C63FF?style=for-the-badge" alt="DSA" />
+</p>
+
+### 📌 Complete Skills Overview
+
+| Category | Skills |
+|---|---|
+| Programming | Java |
+| Frontend | HTML, CSS, JavaScript, React.js |
+| Java Technologies | JDBC, Hibernate, Maven, Spring, Spring Boot |
+| Core Concepts | OOP (Object-Oriented Programming), DSA (Data Structures & Algorithms) |
+
+\
+
+### 🧠 Computer Science Fundamentals
+
+<p>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Core%20Java-9B5DE5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-SQL-6C63FF?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔗 Custom URL Shortener
-> A fast, reliable link management tool built with **Next.js**, fully optimized for rapid redirection layouts and portfolio integration.
+<div align="center">
 
-### 🛡️ Smart Gas Leakage Detection System
-> An embedded systems architecture prototype utilizing an **ESP32** board configured in the **Arduino IDE** for real-time sensor tracking, safety alerts, and remote monitoring.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 Custom URL Shortener
+
+A web application for creating short, shareable URLs with Next.js and MongoDB.
+
+**Tech Stack**
+
+`Next.js` `MongoDB`
+
+<a href="https://github.com/chandrakanthc072-pixel/Url-Shortener">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 StudentTrack
+
+A Student & Address Management System built using Java, JDBC, Maven, and MySQL.
+
+**Tech Stack**
+
+`Java` `JDBC` `MySQL` `Maven`
+
+<a href="https://github.com/chandrakanthc072-pixel/StudentTrack-Java-Project">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Password Manager
+
+A React-based password manager project with MongoDB integration and Tailwind CSS styling.
+
+**Tech Stack**
+
+`React` `JavaScript` `MongoDB` `Tailwind`
+
+<a href="https://github.com/chandrakanthc072-pixel/PassWordManager-using-React">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Netflix Clone
+
+A Netflix-inspired frontend project to explore web interfaces and layouts.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/chandrakanthc072-pixel/Netflix-Clone">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👥 Client Management System
+
+A frontend-focused project for organizing and managing client information.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/chandrakanthc072-pixel/Client-Management-System">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌦️ Weather Monitoring System
+
+A weather application exploring API integration and weather information display.
+
+**Tech Stack**
+
+`Web Development` `API Integration`
+
+<a href="https://github.com/chandrakanthc072-pixel/weather-monitoring-system">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/chandrakanthc072-pixel?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats & Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrakanthc072-pixel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffdd00&icon_color=ce181e&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakanthc072-pixel&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffdd00&text_color=c9d1d9" alt="Top Languages" width="48%" />
-</p>
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrakanthc072-pixel&theme=dark&hide_border=true&background=0d1117&ring=ce181e&fire=ffdd00&currStreakNum=c9d1d9" alt="Streak Stats" width="100%" />
-</p>
+<div align="center">
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrakanthc072-pixel&theme=github-dark-vertical&bg_color=0d1117&hide_border=true&color=ce181e" alt="Activity Graph" width="100%" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chandrakanthc072-pixel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6C63FF&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakanthc072-pixel&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=chandrakanthc072-pixel&hide_border=true&background=0D1117&ring=6C63FF&fire=9B5DE5&currStreakLabel=A78BFA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chandrakanthc072-pixel/chandrakanthc072-pixel/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</p>
 
-> *Note: To animate the snake live, make sure to set up a quick automated GitHub Action workflow utilizing the `platane/snk` generator to output files directly into an `output` branch.*
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/chandrakanthc072-pixel/chandrakanthc072-pixel/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 
-## 💻 Coding Profiles
-<p align="left">
-  <a href="https://leetcode.com/u/chandrakanth_K/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 📫 Contact Section
-<p align="left">
-  <a href="chandrakanthc072@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/chandrakantha-k-2b4252354" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 🧠 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/chandrakanth_K/">
+  <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://github.com/chandrakanthc072-pixel">
+  <img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Code-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+**Currently practicing:** Java · DSA · Arrays · Strings · HashMap · Linked Lists
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&theme=dark" width="100%" alt="🌌 Animated Footer" />
-</p>
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Details |
+|:---|:---|
+| 🧠 LeetCode | 150+ Problems Solved |
+| ☕ NPTEL | Programming in Java — 94% |
+| 🤖 Accenture | Digital Skills: Artificial Intelligence — 91% |
+| 💻 Internship | Java Full Stack Development — Ongoing |
+| 🚀 Projects | 22+ Projects Built / Explored |
+
+</div>
+
+---
+
+## 🌱 Currently Building My Future
+
+```text
+Java & OOP             ██████████  Learning & Practicing
+Spring Boot            ███████░░░  Growing
+Hibernate & JPA        ██████░░░░  Exploring
+Data Structures        ████████░░  Practicing
+Full Stack Projects    ███████░░░  Building
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to connecting with developers, collaborating on projects,
+and exploring entry-level Software Engineering opportunities.
+
+<br/>
+
+<a href="https://github.com/chandrakanthc072-pixel">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/chandrakantha-k-2b4252354/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:chandrakanthc072@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💜 Thanks for visiting my profile!
+
+**Keep Learning · Keep Building · Keep Growing**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0D1117&height=100&section=footer" width="100%" />
+
+</div>
