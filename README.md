@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C63FF,100:9B5DE5&height=220&section=header&text=Chandrakantha%20K&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Welcome+to+my+Developer+Space+%F0%9F%91%8B;Java+Full+Stack+Developer+in+Progress+%E2%98%95;Building+Real-World+Projects+%F0%9F%9A%80;DSA+%7C+Problem+Solving+%7C+Java+%F0%9F%A7%A0;Turning+Ideas+Into+Working+Software+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Welcome+to+my+Developer+Space+%F0%9F%91%8B;Java+Full+Stack+Developer+%E2%98%95;Building+Real-World+Projects+%F0%9F%9A%80;DSA+%7C+Problem+Solving+%7C+Java+%F0%9F%A7%A0;Turning+Ideas+Into+Working+Software+%E2%9C%A8" />
 
 <br/>
 
